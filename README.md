@@ -1,4 +1,4 @@
-# A **CycleGAN** with **Differentiable Augmentation** has been used for a Style Transfer task of generating Monet-Style images. 
+# **CycleGAN** with **Differentiable Augmentation** for Style Transfer
 
 As a reference, here is the main CycleGAN paper: JY Zhu et al "Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks". 
 Link: https://arxiv.org/pdf/1703.10593.pdf
