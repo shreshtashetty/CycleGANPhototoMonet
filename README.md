@@ -56,5 +56,18 @@ Differential Augmentation applies an augmentation to the real images as well as 
 ## 
 
 ## Citations
-[1]
-[2]
+
+[1] @inproceedings{CycleGAN2017,
+  title={Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networkss},
+  author={Zhu, Jun-Yan and Park, Taesung and Isola, Phillip and Efros, Alexei A},
+  booktitle={Computer Vision (ICCV), 2017 IEEE International Conference on},
+  year={2017}
+}
+
+[2] @inproceedings{zhao2020diffaugment,
+  title={Differentiable Augmentation for Data-Efficient GAN Training},
+  author={Zhao, Shengyu and Liu, Zhijian and Lin, Ji and Zhu, Jun-Yan and Han, Song},
+  booktitle={Conference on Neural Information Processing Systems (NeurIPS)},
+  year={2020}
+}
+
