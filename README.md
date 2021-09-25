@@ -2,6 +2,7 @@
 
 As a reference, here is the main CycleGAN paper: JY Zhu et al "Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks". 
 Link: https://arxiv.org/pdf/1703.10593.pdf
+
 and the Differential Augmentation Paper: S Zhao et al "Differentiable Augmentation for Data-Efficient GAN Training".
 Link: https://arxiv.org/pdf/2006.10738.pdf
 
