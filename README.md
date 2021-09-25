@@ -1,5 +1,3 @@
-# CycleGANPhototoMonet
-
 A CycleGAN with Differentiable Augmentation has been used for a Style Transfer task of generating Monet-Style images. 
 
 As a reference, here is the main CycleGAN paper: JY Zhu et al "Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks". 
