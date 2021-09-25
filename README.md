@@ -51,3 +51,10 @@ The FID metric is the squared Wasserstein metric between two multidimensional Ga
 ***Differential Augmentation***: The dataset being used for training had 300 Monet images and 7308 photos. Since there was very little Monet image data, it lead to the model overfitting. This called for the use of some kind of augmentation.
 Differential Augmentation applies an augmentation to the real images as well as the generated images before they are sent into the discriminator. In order to update the generator, the gradients flow back through the discriminator and the 'augmentation function', hence this augmentation needs to be differentiable. Refer to the paper for a more in depth explanation.
 
+![](https://github.com/shreshtashetty/CycleGANPhototoMonet/blob/main/DiffAugment.PNG) [2]
+
+## 
+
+## Citations
+[1]
+[2]
