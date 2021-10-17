@@ -16,7 +16,7 @@ Very simply put, a vanilla GAN consists of a Generator that tries to generate im
 
 In this task, however, we need to learn a mapping G from domain X->domain Y. Just this one constraint doesn't give us a unique mapping function-- there are infinitely many mappings G that map X to Y. Moreover, this also doesn't give robustness against mode collapse. In order to constrain our system furthur, we need to introduce **cycle consistency**, which exploits the fact that translation needs to be cycle consistent-- i.e., an image mapped from X->Y and back should yield the same image. 
 
-Therefore we have 2 generators Gx mapping from X->Y and Gy mapping from Y->X. We also need 2 adverserial discriminators-- Dx which encourages Gx to translate an image from domain X into an image having a distribution extremely close to comain Y and Dy that does the same while translating the image from domain Y to domain X.
+Therefore we have 2 generators Gx mapping from X->Y and Gy mapping from Y->X. We also need 2 adverserial discriminators-- Dx which encourages Gx to translate an image from domain X into an image having a distribution extremely close to domain Y and Dy that does the same while translating the image from domain Y to domain X.
 
 **Generator**: The Generator used in this repository is a UNet with skip connections. We have a monet generator (photo->Monet) and a photo generator (Monet->photo).
 
