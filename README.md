@@ -54,6 +54,8 @@ Differential Augmentation applies an augmentation to the real images as well as 
 
 ![](https://github.com/shreshtashetty/CycleGANPhototoMonet/blob/main/DiffAugment.PNG) [2]
 
+***Dataset used***: Images for training and testing are obtained from Kaggle. Their learning competition on CycleGANs-- "I am Something of a Painter Myself" has the entire dataset that can be downloaded as a .zip file. It has tfrecords too, which one can directly work with. 
+
 ## 
 
 ## Citations
