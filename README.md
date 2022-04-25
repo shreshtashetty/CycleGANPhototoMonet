@@ -77,3 +77,15 @@ Differential Augmentation applies an augmentation to the real images as well as 
   year={2020}
 }
 
+##
+
+If you find this repository useful, please cite the following:
+
+@misc{Shreshta2021CycleGANPhototoMonet,
+  author = {Shetty, Shreshta},
+  title = {CycleGANPhototoMonet},
+  year = {2021},
+  publisher = {GitHub},
+  journal = {GitHub repository},
+  howpublished = {\url{https://github.com/shreshtashetty/CycleGANPhototoMonet}},
+}
