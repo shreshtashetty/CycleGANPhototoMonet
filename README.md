@@ -64,7 +64,7 @@ Differential Augmentation applies an augmentation to the real images as well as 
 ## Citations
 
 > [1] @inproceedings{CycleGAN2017, <br />
->   title={Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networkss}, <br />
+>   title={Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks}, <br />
 >   author={Zhu, Jun-Yan and Park, Taesung and Isola, Phillip and Efros, Alexei A}, <br />
 >   booktitle={Computer Vision (ICCV), 2017 IEEE International Conference on}, <br />
 >   year={2017} <br />
