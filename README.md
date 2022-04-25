@@ -63,29 +63,30 @@ Differential Augmentation applies an augmentation to the real images as well as 
 
 ## Citations
 
-[1] @inproceedings{CycleGAN2017,
-  title={Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networkss},
-  author={Zhu, Jun-Yan and Park, Taesung and Isola, Phillip and Efros, Alexei A},
-  booktitle={Computer Vision (ICCV), 2017 IEEE International Conference on},
-  year={2017}
-}
+> [1] @inproceedings{CycleGAN2017, <br />
+>   title={Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networkss}, <br />
+>   author={Zhu, Jun-Yan and Park, Taesung and Isola, Phillip and Efros, Alexei A}, <br />
+>   booktitle={Computer Vision (ICCV), 2017 IEEE International Conference on}, <br />
+>   year={2017} <br />
+> }
 
-[2] @inproceedings{zhao2020diffaugment,
-  title={Differentiable Augmentation for Data-Efficient GAN Training},
-  author={Zhao, Shengyu and Liu, Zhijian and Lin, Ji and Zhu, Jun-Yan and Han, Song},
-  booktitle={Conference on Neural Information Processing Systems (NeurIPS)},
-  year={2020}
-}
+> [2] @inproceedings{zhao2020diffaugment, <br />
+>   title={Differentiable Augmentation for Data-Efficient GAN Training}, <br />
+>   author={Zhao, Shengyu and Liu, Zhijian and Lin, Ji and Zhu, Jun-Yan and Han, Song}, <br />
+>   booktitle={Conference on Neural Information Processing Systems (NeurIPS)}, <br />
+>   year={2020} <br />
+> }
 
 ##
 
 If you find this repository useful, please cite the following:
 
-@misc{Shreshta2021CycleGANPhototoMonet,
-  author = {Shetty, Shreshta},
-  title = {CycleGANPhototoMonet},
-  year = {2021},
-  publisher = {GitHub},
-  journal = {GitHub repository},
-  howpublished = {\url{https://github.com/shreshtashetty/CycleGANPhototoMonet}},
-}
+
+> @misc{Shreshta2021CycleGANPhototoMonet, <br />
+>   author = {Shetty, Shreshta}, <br />
+>   title = {CycleGANPhototoMonet}, <br />
+>   year = {2021}, <br />
+>   publisher = {GitHub}, <br />
+>   journal = {GitHub repository}, <br />
+>   howpublished = {\url{https://github.com/shreshtashetty/CycleGANPhototoMonet}}, <br />
+> }
